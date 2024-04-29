@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "react_ecommerce",
+			"path": "react_ecommerce"
+		}
+	],
+	"settings": {
+		"js/ts.implicitProjectConfig.experimentalDecorators": true
+	}
+}
